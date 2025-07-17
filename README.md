@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there 👋, I'm alznvd6
 
-<!--
-**alznvd6/alznvd6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a computer engineering student and a passionate programmer.  
+I have experience with Python, C++, and Java.  
+I'm especially interested in **AI** and **game development**.
 
-Here are some ideas to get you started:
+## 🚀 Skills & Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** Python, C++, Java
+
+## 🌱 Currently Interested In
+
+- AI and ML techniques
+- Game design and development workflows
+- Combining AI with real-time games
+
+## 📫 How to reach me
+
+- [GitHub](https://github.com/alznvd6)
+- [Gmail](alz.navid6@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/aliznavid6)
+
+---
+
+Feel free to check out my repositories and connect!
