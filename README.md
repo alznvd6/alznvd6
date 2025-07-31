@@ -2,7 +2,7 @@
 
 I'm a computer engineering student and a passionate programmer.  
 I have experience with Python, C++, and Java.  
-I'm especially interested in **AI**
+I'm especially interested in **AI** 
 I create simple games for fun
 
 ## 🚀 Programming Skills
