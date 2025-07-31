@@ -2,17 +2,11 @@
 
 I'm a computer engineering student and a passionate programmer.  
 I have experience with Python, C++, and Java.  
-I'm especially interested in **AI** and **game development**.
+I'm especially interested in **AI**
 
-## 🚀 Skills
+## 🚀 Programming Skills
 
 - **Languages:** Python, C++, Java
-
-## 🌱 Interested In
-
-- AI and ML techniques
-- Game design and development workflows
-- Combining AI with real-time games
 
 ## 📫 How to reach me
 
